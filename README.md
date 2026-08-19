@@ -22,6 +22,16 @@ This is similar to what social media and many other apps use. It combines device
 ## Installation
 1. Go to the [Releases](https://github.com/reveny/Android-Device-Trust/releases) tab to download the latest version.
 
+# Privacy & Data Collection Notice
+
+Android-Device-Trust is a device fingerprinting and attestation demo, collecting device signals is its entire purpose. Running a check sends device properties, integrity signals, and derived fingerprints to a demo backend operated by me. See the full [Privacy Policy](https://github.com/reveny/Android-Device-Trust/blob/main/PRIVACY.md) for details.
+
+On the first launch, the app asks for your agreement before any data is sent. If you do not want your device fingerprinted, do not install or run this app.
+
+This is a demo and research project: no warranty, no SLA, not for production use. If you redistribute the APK or deploy this code on your own backend (when the source code will eventually be released), you are responsible for your own privacy compliance. This policy covers only the demo operated by me.
+
+Questions or data requests: contact@reveny.me
+
 ## Contact
 For any questions, collaboration requests, or updates, feel free to reach out via:
 
