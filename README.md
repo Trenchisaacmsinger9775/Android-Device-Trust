@@ -28,7 +28,7 @@ Android-Device-Trust is a device fingerprinting and attestation demo, collecting
 
 On the first launch, the app asks for your agreement before any data is sent. If you do not want your device fingerprinted, do not install or run this app.
 
-This is a demo and research project: no warranty, no SLA, not for production use. If you redistribute the APK or deploy this code on your own backend (when the source code will eventually be released), you are responsible for your own privacy compliance. This policy covers only the demo operated by me.
+This is a demo and research project: no warranty, no SLA, not for production use. If you redistribute the APK or deploy this code on your own backend, you are responsible for your own privacy compliance. This policy covers only the demo operated by me.
 
 Questions or data requests: contact@reveny.me
 
