@@ -1,0 +1,45 @@
+x-logging: &default-logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "5"
+
+x-api-service: &api-service
+  image: devicecheck-api:latest
+  restart: unless-stopped
+  logging: *default-logging
+  env_file:
+    - .env
+  depends_on:
+    - redis
+    - postgres
+
+services:
+  api:
+    <<: *api-service
+    build: .
+    ports:
+      - "127.0.0.1:8081:8080"
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    logging: *default-logging
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - redis-data:/data
+
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    logging: *default-logging
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-devicecheck}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB:-devicecheck}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+volumes:
+  redis-data:
+  postgres-data:

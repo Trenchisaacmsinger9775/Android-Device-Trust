@@ -1,0 +1,70 @@
+# Gradle / Android
+.gradle/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+local.properties
+captures/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# APK / signing outputs
+*.apk
+*.aab
+*.ap_
+*.idsig
+*.jks
+*.keystore
+*.p12
+*.pem
+*.der
+app/release/
+release/
+
+# Native build outputs
+obj/
+libs/
+.cxx/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+
+# Backend local config / secrets
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs and runtime files
+*.log
+logs/
+*.pid
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+
+# Codex / local agent state
+.agents/
+.codex/
